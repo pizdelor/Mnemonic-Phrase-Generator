@@ -12,10 +12,10 @@ This Python script creates a mnemonic expression and allows the user to continuo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/usrrrrrr/Random-Mnemonic-Phrase-Generator.git
+   git clone https://github.com/pizdelor/Random-Mnemonic-Phrase-Generator.git
    ```
    ```
-   cd mnemonic-phrase-generator
+   cd Random-Mnemonic-Phrase-Generator
    ```
 
 2. Install the required Python libraries:
