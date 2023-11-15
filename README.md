@@ -43,6 +43,9 @@ The generated mnemonic phrases are appended to the `seed.txt` file in the projec
 
 This Project is for Educational Purposes. I am not responsible for any situation that may occur.
 
+## Author
+[Ethan](https://github.com/pizdelor)
+
 ### Contribution
 
 Feel free to contribute by forking the repository and submitting pull requests.
