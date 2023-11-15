@@ -33,7 +33,13 @@ python generator.py
 
 ### Options
 
-- After every 100 generated mnemonic phrases, the script prompts the user with a message asking if they want to continue generating more phrases. Respond with 'y' to continue or any other key to terminate the loop.
+- After every 100 generated mnemonic phrases, the script prompts the user with a message asking if they want to continue generating more phrases. Respond with 'y' to continue or any other key to terminate the loop. Optionally, you can change the value of 100.
+
+```python
+if count % 100 == 0: # Change
+    #      ^^^
+
+```
 
 ### Note
 
