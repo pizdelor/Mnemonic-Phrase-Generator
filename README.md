@@ -39,6 +39,10 @@ python generator.py
 
 The generated mnemonic phrases are appended to the `seed.txt` file in the project directory.
 
+## Disclaimer 
+
+This Project is for Educational Purposes. I am not responsible for any situation that may occur.
+
 ### Contribution
 
 Feel free to contribute by forking the repository and submitting pull requests.
