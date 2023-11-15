@@ -4,8 +4,7 @@
 This Python script creates a mnemonic expression and allows the user to continuously generate expressions and save them in a file called `seed.txt`.
 ### Requirements
 
-- Python 3.x
-- `mnemonic` library
+- Python
 
 ### Installation
 
