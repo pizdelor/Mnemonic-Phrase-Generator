@@ -35,12 +35,6 @@ python generator.py
 
 - After every 100 generated mnemonic phrases, the script prompts the user with a message asking if they want to continue generating more phrases. Respond with 'y' to continue or any other key to terminate the loop. Optionally, you can change the value of 100.
 
-```python
-if count % 100 == 0: # Change
-    #      ^^^
-
-```
-
 ### Note
 
 The generated mnemonic phrases are appended to the `seed.txt` file in the project directory.
